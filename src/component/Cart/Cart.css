@@ -1,0 +1,17 @@
+.cart-item-container {
+  border: 1 px solid gray;
+  width: 200px;
+  background-color: rgb(202, 199, 199);
+  color: black;
+}
+
+.cart-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: bold;
+}
+.select-button {
+  background-color: rgb(141, 151, 243);
+}
